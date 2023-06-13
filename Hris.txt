@@ -4,3 +4,5 @@ Hris modules
 3.movement
 4.exit
 5.probation
+6. career
+7. ESS
